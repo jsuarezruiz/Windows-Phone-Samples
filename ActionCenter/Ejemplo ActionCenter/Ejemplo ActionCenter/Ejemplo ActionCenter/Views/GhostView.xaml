@@ -1,0 +1,21 @@
+﻿<base:PageBase
+    x:Class="Ejemplo_ActionCenter.Views.GhostView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Ejemplo_ActionCenter.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:base="using:Ejemplo_ActionCenter.Views.Base"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    DataContext="{Binding GhostViewModel, Source={StaticResource Locator}}">
+    <Grid>
+        <StackPanel Margin="12">
+            <TextBlock Text="DEMO:" FontSize="32" />
+            <TextBlock TextWrapping="Wrap">
+                Enviaremos una notificación toast "fantasma" local. Usamos la propiedad SupressPopup del Toast para que solo aparezca en el action center.
+            </TextBlock>
+            <Button Content="Enviar Notificación Fantasma" Command="{Binding SendGhostNotificationCommand}"/>
+        </StackPanel>
+    </Grid>
+</base:PageBase>

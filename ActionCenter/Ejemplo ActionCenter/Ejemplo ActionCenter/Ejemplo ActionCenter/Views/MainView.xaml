@@ -1,0 +1,29 @@
+﻿<base:PageBase
+    x:Class="Ejemplo_ActionCenter.Views.MainView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:base="using:Ejemplo_ActionCenter.Views.Base"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    DataContext="{Binding MainViewModel, Source={StaticResource Locator}}">
+    <ScrollViewer>
+        <StackPanel Margin="12">
+            <TextBlock Text="ACTION CENTER" FontSize="32"
+                       Margin="0, 0, 0, 25"/>
+            <TextBlock Text="Enviaremos una notificación toast local. EL popup de la notificación aparecerá y automáticamente tambien se enviará al action center."
+                       TextWrapping="Wrap" />
+            <Button Content="Notificación Toast" Command="{Binding ToastCommand}"/>
+            <TextBlock Text="Enviaremos una notificación toast fantasma local. Usamos la propiedad SupressPopup del Toast para que solo aparezca en el action center."
+                       TextWrapping="Wrap" />
+            <Button Content="Notificación Toast fantasma" Command="{Binding GhostCommand}"/>
+            <TextBlock Text="Toda aplicación tiene una cantidad finita de espacio en el action center. En este ejemplo enviamos múltiples notificaciones para demostrar su funcionamiento."
+                       TextWrapping="Wrap" />
+            <Button Content="Sistema de colas" Command="{Binding QueueCommand}"/>
+            <TextBlock Text="Gracias a NotificationManager.History podemos eliminar notificaciones del action center."
+                       TextWrapping="Wrap" />
+            <Button Content="Gestión de notificaciones" Command="{Binding EditCommand}"/>
+        </StackPanel>
+    </ScrollViewer>
+</base:PageBase>

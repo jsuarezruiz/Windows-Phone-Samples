@@ -1,0 +1,2 @@
+C:\Users\Javier\documents\visual studio 2013\Projects\BackgroundAudio\BackgroundAudio.Task\BackgroundAudio.Task.csproj;neutral
+C:\Users\Javier\documents\visual studio 2013\Projects\BackgroundAudio\BackgroundAudio\BackgroundAudio.WindowsPhone\BackgroundAudio.WindowsPhone.csproj;neutral

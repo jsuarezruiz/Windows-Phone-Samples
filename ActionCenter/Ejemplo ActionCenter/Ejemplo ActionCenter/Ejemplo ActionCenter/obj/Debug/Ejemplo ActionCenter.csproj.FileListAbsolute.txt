@@ -1,0 +1,55 @@
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\bin\Debug\App.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\bin\Debug\Views\MainView.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\bin\Debug\Views\GhostView.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\bin\Debug\Views\QueueView.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\bin\Debug\Views\ToastView.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\bin\Debug\Ejemplo ActionCenter.xr.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\bin\Debug\Ejemplo ActionCenter.exe
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\bin\Debug\Ejemplo ActionCenter.pdb
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\bin\Debug\resources.pri
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\bin\Debug\AppxManifest.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\bin\Debug\Ejemplo ActionCenter.build.appxrecipe
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\bin\Debug\Microsoft.Practices.Unity.NetCore.dll
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\App.g.i.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\App.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Views\MainView.g.i.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Views\MainView.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Views\GhostView.g.i.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Views\GhostView.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Views\QueueView.g.i.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Views\QueueView.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Views\ToastView.g.i.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Views\ToastView.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\App.xaml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Views\MainView.xaml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Views\GhostView.xaml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Views\QueueView.xaml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Views\ToastView.xaml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\App.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Views\MainView.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Views\GhostView.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Views\QueueView.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Views\ToastView.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Ejemplo ActionCenter.exe
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Ejemplo ActionCenter.pdb
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Ejemplo ActionCenter.csproj.GenerateResource.Cache
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\priconfig.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\priconfig.xml.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\layout.resfiles
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\layout.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\resources.resfiles
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\resources.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\pri.resfiles
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\pri.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\qualifiers.txt
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\ProjectArchitectures.txt
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\bin\Debug\Views\EditView.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Views\EditView.g.i.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Views\EditView.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Views\EditView.xaml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Views\EditView.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo ActionCenter\Ejemplo ActionCenter\obj\Debug\Ejemplo ActionCenter.csprojResolveAssemblyReference.cache

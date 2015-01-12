@@ -1,0 +1,14 @@
+C:\Users\Javier\Desktop\src\Entities\Bin\Debug\WPAppStudio.Entities.dll
+C:\Users\Javier\Desktop\src\Entities\Bin\Debug\WPAppStudio.Entities.pdb
+C:\Users\Javier\Desktop\src\Entities\Bin\Debug\WPAppStudio.Entities.dll.CodeAnalysisLog.xml
+C:\Users\Javier\Desktop\src\Entities\Bin\Debug\WPAppStudio.Entities.dll.lastcodeanalysissucceeded
+C:\Users\Javier\Desktop\src\Entities\Bin\Debug\HtmlAgilityPack.dll
+C:\Users\Javier\Desktop\src\Entities\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Javier\Desktop\src\Entities\Bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\Javier\Desktop\src\Entities\Bin\Debug\System.Xml.XPath.dll
+C:\Users\Javier\Desktop\src\Entities\Bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Javier\Desktop\src\Entities\Bin\Debug\HtmlAgilityPack.xml
+C:\Users\Javier\Desktop\src\Entities\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Javier\Desktop\src\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\src\Entities\obj\Debug\WPAppStudio.Entities.dll
+C:\Users\Javier\Desktop\src\Entities\obj\Debug\WPAppStudio.Entities.pdb

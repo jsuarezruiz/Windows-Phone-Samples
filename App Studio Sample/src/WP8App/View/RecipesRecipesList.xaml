@@ -1,0 +1,88 @@
+<phone:PhoneApplicationPage 
+    x:Class="DoWapp.View.RecipesRecipesList"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+	xmlns:controls="clr-namespace:DoWapp.Controls"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource CustomApplicationTextBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True"
+	DataContext="{Binding Path=RecipesRecipesListViewModel, Source={StaticResource ViewModelLocator}}">
+    <toolkit:TransitionService.NavigationInTransition>
+        <toolkit:NavigationInTransition>
+            <toolkit:NavigationInTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardIn"/>
+            </toolkit:NavigationInTransition.Backward>
+            <toolkit:NavigationInTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardIn"/>
+            </toolkit:NavigationInTransition.Forward>
+        </toolkit:NavigationInTransition>
+    </toolkit:TransitionService.NavigationInTransition>
+    <toolkit:TransitionService.NavigationOutTransition>
+        <toolkit:NavigationOutTransition>
+            <toolkit:NavigationOutTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardOut"/>
+            </toolkit:NavigationOutTransition.Backward>
+            <toolkit:NavigationOutTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardOut"/>
+            </toolkit:NavigationOutTransition.Forward>
+        </toolkit:NavigationOutTransition>
+    </toolkit:TransitionService.NavigationOutTransition>
+    <phone:PhoneApplicationPage.Resources>
+    </phone:PhoneApplicationPage.Resources>
+    <Grid x:Name="LayoutRoot" Background="{StaticResource CustomApplicationBackgroundBrush}">
+        <phone:Panorama Foreground="{StaticResource CustomApplicationTextBrush}">
+            <phone:Panorama.Background>
+                <ImageBrush ImageSource="..\Resources\background-recipes-2.png"/>
+            </phone:Panorama.Background>
+	 <phone:PanoramaItem>
+            <phone:PanoramaItem.Header>
+                    <StackPanel x:Name="TitlePanel" Orientation="Horizontal" Margin="0,7,0,0">
+                    <Image x:Name="TitleImage" Height="80" Source="..\Resources\Logo.png" Stretch="Fill" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="80" Margin="5,0,5,30" RenderTransformOrigin="0.5,0.5" />
+                    <TextBlock Text="jsr final 01" FontFamily="Segoe WP Black" Foreground="{StaticResource CustomTitleApplicationTextBrush}" VerticalAlignment="Stretch"/>
+                </StackPanel>
+            </phone:PanoramaItem.Header>
+				<ListBox x:Name="RecipesRecipesListLisControl" ItemsSource="{Binding RecipeDataSourceCollection}"
+														SelectedItem="{Binding SelectedRecipeDataSource, Mode=TwoWay}">
+                    <ListBox.ItemsPanel>
+                        <ItemsPanelTemplate>
+							<VirtualizingStackPanel Orientation="Vertical"/>
+                        </ItemsPanelTemplate>
+                    </ListBox.ItemsPanel>
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+						<Grid Margin="5">
+							<Grid.ColumnDefinitions>
+								<ColumnDefinition Width="120"/>
+								<ColumnDefinition Width="Auto"/>
+							</Grid.ColumnDefinitions>
+							<Grid.RowDefinitions>
+								<RowDefinition/>
+								<RowDefinition/>
+							</Grid.RowDefinitions>
+							<Image Source="{Binding Image, Converter={StaticResource StringToImageInResources}}" Width="120" Margin="5" Stretch="UniformToFill" Grid.RowSpan="2" />
+							<TextBlock Text="{Binding Name}" TextWrapping="Wrap" FontSize="32" Grid.Column="1" 
+												   Grid.Row="0" Foreground="{StaticResource CustomApplicationTextBrush}"/>
+							<StackPanel Grid.Column="1" Grid.Row="1" Orientation="Horizontal">
+								<TextBlock Text="{Binding PrepartionTime}" FontSize="18" Foreground="{StaticResource CustomApplicationTextBrush}"/>
+							</StackPanel>
+						</Grid>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </phone:PanoramaItem>
+        </phone:Panorama>
+    </Grid>
+	<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True"  Mode="Default" BackgroundColor="#E51400" Opacity="1.0">
+            <shell:ApplicationBarIconButton x:Name="btnSetLockScreen" IconUri="/Images/Icons/Lock.png" Text="Lock Screen" Click="btnPinToSetLockScreen_Click"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+</phone:PhoneApplicationPage>

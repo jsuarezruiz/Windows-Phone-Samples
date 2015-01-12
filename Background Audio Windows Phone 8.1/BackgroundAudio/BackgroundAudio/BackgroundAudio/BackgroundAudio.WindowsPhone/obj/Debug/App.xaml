@@ -1,0 +1,22 @@
+﻿<Application
+    x:Class="BackgroundAudio.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:base="using:BackgroundAudio.ViewModels.Base"
+    xmlns:converters="using:BackgroundAudio.Converters">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Themes/Button.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+            
+            <!-- ViewModelLocator -->
+            <base:ViewModelLocator x:Key="Locator" />
+
+            <!-- Converters -->
+            <converters:StateToIconConverter x:Key="StateToIconConverter" />
+            
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
+

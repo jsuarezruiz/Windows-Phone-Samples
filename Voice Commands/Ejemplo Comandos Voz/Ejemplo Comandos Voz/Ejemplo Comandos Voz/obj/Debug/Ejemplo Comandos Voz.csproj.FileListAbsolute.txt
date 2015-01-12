@@ -1,0 +1,18 @@
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Comandos Voz\Ejemplo Comandos Voz\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Comandos Voz\Ejemplo Comandos Voz\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Comandos Voz\Ejemplo Comandos Voz\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Comandos Voz\Ejemplo Comandos Voz\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Comandos Voz\Ejemplo Comandos Voz\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Comandos Voz\Ejemplo Comandos Voz\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Comandos Voz\Ejemplo Comandos Voz\Bin\Debug\Ejemplo Comandos Voz.dll
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Comandos Voz\Ejemplo Comandos Voz\Bin\Debug\Ejemplo Comandos Voz.pdb
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Comandos Voz\Ejemplo Comandos Voz\Bin\Debug\AppManifest.xaml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Comandos Voz\Ejemplo Comandos Voz\Bin\Debug\Ejemplo_Comandos_Voz_Debug_AnyCPU.xap
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Comandos Voz\Ejemplo Comandos Voz\obj\Debug\App.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Comandos Voz\Ejemplo Comandos Voz\obj\Debug\MainPage.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Comandos Voz\Ejemplo Comandos Voz\obj\Debug\Ejemplo Comandos Voz.g.resources
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Comandos Voz\Ejemplo Comandos Voz\obj\Debug\Ejemplo_Comandos_Voz.Resources.AppResources.resources
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Comandos Voz\Ejemplo Comandos Voz\obj\Debug\Ejemplo Comandos Voz.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Comandos Voz\Ejemplo Comandos Voz\obj\Debug\Ejemplo Comandos Voz.dll
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Comandos Voz\Ejemplo Comandos Voz\obj\Debug\Ejemplo Comandos Voz.pdb
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Comandos Voz\Ejemplo Comandos Voz\obj\Debug\XapCacheFile.xml

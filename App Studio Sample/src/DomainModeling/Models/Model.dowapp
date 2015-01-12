@@ -1,0 +1,487 @@
+DoWappModel e43E1DC68
+{
+	Id = "1e6393fd-a782-4f97-a9ae-faab590a1b02";
+	Name = "jsr final 01";
+	AppUniqueId = "e99bac62-b16a-45f4-92be-5201fe7b5a82";
+	Description = "test";
+	Version =  "1";
+	AppLogoPngUrl = "Logo.png";
+	ApplicationTitle = "jsr final 01";
+	LastModified = "2013-02-24T20:38:47+01:00";
+	CreatedOn = "2013-02-24T21:36:03+01:00";
+	Category = "Lifestyle";
+	Subcategory = "Recipes";
+	BlockInstances = [e70CB4446];
+	AllPages = [e8F1C02FE, eE6DBD269, eA122DF8F];
+	DataLists = [eF27A18B1];
+	ConcreteData = [eDDF87EC9];
+	MainPage = e8F1C02FE;
+	SplashScreenImageUrl = "https://dowapp.blob.core.windows.net/apps/65/e99bac62-b16a-45f4-92be-5201fe7b5a82/res/Splashscreen-720-red.png";
+	ApplicationTile = e88076591;
+	ApplicationLockScreen = e4409FA28;
+	AdvertisementEnabled = false;
+	AccentColor = "#E51400";
+	BackgroundColor = "#000000";
+	ForegroundColor = "#000000";
+	ApplicationBarBackgroundColor = "#E51400";
+	BackgroundImagePngUrl = "https://dowapp.blob.core.windows.net/apps/65/e99bac62-b16a-45f4-92be-5201fe7b5a82/res/background-recipes-2.png";
+	Behaviours = [];
+}
+BlockRecipe e70CB4446
+{
+	Id = "03860c1d-554d-4823-8d7c-2656bbab2f78";
+	DataSource = "Recipe";
+	BlockListLayout = "ListPhotoLeft";
+	BlockInstanceLayout = "InstanceDescription";
+	GroupBy = "Categories";
+	TextToSpeechEnabled = true;
+	ShareEnabled = true;
+	BlockType = "RecipeBlock";
+	Name = "Recipes";
+	Properties = [];
+	EntryPage = e8F1C02FE;
+	AllPages = [e8F1C02FE, eE6DBD269, eA122DF8F];
+}
+ListPage e8F1C02FE
+{
+	Id = "c8c24fb1-26de-4d15-96e2-616898fcaa5a";
+	Text1 = "{Name}";
+	Text2 = "{PrepartionTime}";
+	Image1 = "{Image}";
+	Name = "RecipesRecipesList";
+	Title = "Recipes";
+	ContainerLayout = "Panorama";
+	ContainerTitle = "jsr final 01";
+	Layout = "ListPhotoLeft";
+	DetailPage = eE6DBD269;
+	DataSchema = eF27A18B1;
+	StaticData = eDDF87EC9;
+	Behaviours = [];
+}
+InstancePage eE6DBD269
+{
+	Id = "d75c93ce-a787-418a-a2ec-965fc6dbca2d";
+	Text1 = "{Instructions}";
+	Image1 = "{Image}";
+	Name = "RecipesRecipeDetail1";
+	Title = "elaboration";
+	ContainerLayout = "Pivot";
+	ContainerTitle = "{Name}";
+	Layout = "InstanceTitlePhotoDescription";
+	RightBrotherPage = eA122DF8F;
+	Behaviours = [e35A63310, e447E6185];
+}
+Behaviour e35A63310
+{
+	Id = "97177949-e6b1-4aa5-82d8-443bcca715fc";
+	Name = "RecipesRecipeDetail1Email";
+	Type = "TextToSpeech";
+}
+Behaviour e447E6185
+{
+	Id = "41712088-d80f-411d-a46e-dd6742c6b910";
+	Name = "RecipesRecipeDetail1TextToSpeech";
+	Type = "TextToSpeech";
+}
+InstancePage eA122DF8F
+{
+	Id = "01de9732-85fc-4802-a37b-259507f80fbf";
+	Text1 = "{Ingredients}";
+	Text2 = "{PrepartionTime}";
+	Name = "RecipesRecipeIngredients";
+	Title = "ingredients";
+	ContainerLayout = "Pivot";
+	ContainerTitle = "{Name}";
+	Layout = "InstanceDescription";
+	Behaviours = [e465B2951, e3423F85B];
+}
+Behaviour e465B2951
+{
+	Id = "81ac6fa3-c8f7-4612-a321-0f58119feae0";
+	Name = "RecipesRecipeIngredientsEmail";
+	Type = "TextToSpeech";
+}
+Behaviour e3423F85B
+{
+	Id = "4211b998-5932-411d-b17a-2f9e298d73de";
+	Name = "RecipesRecipeIngredientsTextToSpeech";
+	Type = "TextToSpeech";
+}
+DataList eF27A18B1
+{
+	Id = "dc295ff2-7453-4768-9c98-5ae7f0d1732b";
+	IsDynamic = false;
+	ClientId = "65";
+	ApplicationId = "e99bac62-b16a-45f4-92be-5201fe7b5a82";
+	Name = "Recipe";
+	Columns = [eBF8C1B65, e2A470096, e9BF898A, e2D509758, e3ACE5A6C, e1C13A15F, eDD386CAE, e5E785D12];
+}
+DataField eBF8C1B65
+{
+	Id = "dc985eb0-c314-45a4-8c4f-a0c3b5b84a71";
+	Type = "string";
+	Name = "Continent";
+	Title = "Continent";
+	AllowsNull = false;
+	IsGroupable = true;
+}
+DataField e2A470096
+{
+	Id = "ae0e4af4-1749-4adc-a544-9316f6d6aabe";
+	Type = "string";
+	Name = "Name";
+	Title = "Title";
+	AllowsNull = false;
+	IsGroupable = false;
+}
+DataField e9BF898A
+{
+	Id = "8052c658-6bed-4f19-8308-e20575ec4fcb";
+	Type = "string";
+	Name = "Instructions";
+	Title = "Instructions";
+	AllowsNull = false;
+	IsGroupable = false;
+}
+DataField e2D509758
+{
+	Id = "14ebd6e3-d0bb-41fc-882e-e9b413585e47";
+	Type = "string";
+	Name = "Ingredients";
+	Title = "Ingredients";
+	AllowsNull = false;
+	IsGroupable = false;
+}
+DataField e3ACE5A6C
+{
+	Id = "22261dce-f8e8-477f-bed3-e0c4abe773dd";
+	Type = "image";
+	Name = "Image";
+	Title = "Image";
+	AllowsNull = false;
+	IsGroupable = false;
+}
+DataField e1C13A15F
+{
+	Id = "f470e62e-0a63-4780-a113-e2cde20e7ff1";
+	Type = "bool";
+	Name = "Vegan";
+	Title = "Vegan";
+	AllowsNull = false;
+	IsGroupable = false;
+}
+DataField eDD386CAE
+{
+	Id = "0e4c26f6-6674-4a61-8b5a-b58f335f0239";
+	Type = "int";
+	Name = "Calories";
+	Title = "KCal";
+	AllowsNull = false;
+	IsGroupable = false;
+}
+DataField e5E785D12
+{
+	Id = "60b318ca-8ccb-45f8-b1ea-b2485cdac520";
+	Type = "int";
+	Name = "PrepartionTime";
+	Title = "Preparation Time";
+	AllowsNull = false;
+	IsGroupable = false;
+}
+DataRowList eDDF87EC9
+{
+	Id = "42003f3e-02f8-41ca-967b-9d6c01f6d53d";
+	SchemaName = "Recipe";
+	Rows = [e785C4348, e211B2F9C, e32286E59, eA10D6515, e31F07A89, e105E7209];
+}
+DataRow e785C4348
+{
+	Id = "56a40452-5cf8-4780-910a-725bbb03cc9a";
+	Cells = [eDC9BDD9F, eF202123E, e1C477E38, e11133838, eD2933F2E, eDDC36BC, e5F7ABDEB, e933B9CA8];
+}
+DataFieldValue eDC9BDD9F
+{
+	Id = "3f849386-f91f-4e8a-bd90-1ae6e10fd293";
+	Value = "-";
+}
+DataFieldValue eF202123E
+{
+	Id = "02085c15-c50a-4ebb-b389-3528a9a74a90";
+	Value = "Tortilla souppppp";
+}
+DataFieldValue e1C477E38
+{
+	Id = "c6c231cb-ec85-4f8a-a21a-36bb010bc379";
+	Value = "1 If you are starting with somewhat old, dried out tortillas, great.";
+}
+DataFieldValue e11133838
+{
+	Id = "412e7afd-ae3d-42e3-b4f8-fe35e33a1c26";
+	Value = "6 corn tortillas preferably a little old and dried out";
+}
+DataFieldValue eD2933F2E
+{
+	Id = "3f8b748e-7f18-4b42-80f2-92bd647e4ae2";
+	Value = "https://dowapp.blob.core.windows.net/apps/65/e99bac62-b16a-45f4-92be-5201fe7b5a82/res/Mexican_1_600_C.jpg";
+}
+DataFieldValue eDDC36BC
+{
+	Id = "7bd579d5-7e09-4fca-b99e-0870753a12a3";
+	Value = "false";
+}
+DataFieldValue e5F7ABDEB
+{
+	Id = "d38dffdb-03f7-421d-ad99-8f8ce0d8902d";
+	Value = "0";
+}
+DataFieldValue e933B9CA8
+{
+	Id = "44a4d426-cc9f-482a-a71a-1b49a732c5a4";
+	Value = "30";
+}
+DataRow e211B2F9C
+{
+	Id = "716366d1-e578-49c8-81c0-b53c1bc34485";
+	Cells = [e3A1A841D, eE74A00B5, eBA404476, e23A04A16, eE9DA081D, eC42E35F9, eD41181A4, e74FBB118];
+}
+DataFieldValue e3A1A841D
+{
+	Id = "7e67c79c-047d-43c4-9203-4078cba01545";
+	Value = "Mexico";
+}
+DataFieldValue eE74A00B5
+{
+	Id = "169a4bc0-d3d0-4b57-bd96-222be5694022";
+	Value = "Taco Salad";
+}
+DataFieldValue eBA404476
+{
+	Id = "0eaa0cbc-aeea-48dc-91cc-1abc76319716";
+	Value = "Combine salsa and sour cream in a large bowl. Heat oil in a large nonstick skillet over medium heat. Add onion and garlic and cook, stirring often, until softened, about 2 minutes. Add turkey and cook, stirring often and crumbling with a wooden spoon, until cooked through, about 5 minutes. Add tomatoes, beans, cumin and chili powder; cook, stirring, until the tomatoes begin to break down, 2 to 3 minutes. Remove from the heat, stir in cilantro and 1/4 cup of the salsa mixture. Add lettuce to the remaining salsa mixture in the bowl; toss to coat. To serve, divide the lettuce among 4 plates, top with the turkey mixture and sprinkle with cheese.";
+}
+DataFieldValue e23A04A16
+{
+	Id = "af5a097b-dffa-4376-9c72-53131fb4451b";
+	Value = "1/2 cup prepared salsa";
+}
+DataFieldValue eE9DA081D
+{
+	Id = "b3ac47dd-8476-4f94-9afe-de18a4500254";
+	Value = "https://dowapp.blob.core.windows.net/apps/65/e99bac62-b16a-45f4-92be-5201fe7b5a82/res/Mexican_2_600_C.jpg";
+}
+DataFieldValue eC42E35F9
+{
+	Id = "f1477eb2-de69-4b81-bf1c-eb452edf36ca";
+	Value = "false";
+}
+DataFieldValue eD41181A4
+{
+	Id = "9507c0e9-6a16-4137-bd8b-2b0ccfa4a57a";
+	Value = "700";
+}
+DataFieldValue e74FBB118
+{
+	Id = "c2e2f9b1-7719-485a-abf3-c1a16ae95df3";
+	Value = "30";
+}
+DataRow e32286E59
+{
+	Id = "f2d52ac4-defd-44e4-babd-1e2a91c82779";
+	Cells = [e1E0A81A7, eA2FF7C09, eFCA135DD, e44CBDFA, e95A10A32, e81DF0A6A, eFF6DEE5D, eEBCB0346];
+}
+DataFieldValue e1E0A81A7
+{
+	Id = "ec4fc946-6045-4808-8c66-9219749960e9";
+	Value = "Mexico";
+}
+DataFieldValue eA2FF7C09
+{
+	Id = "33673e93-1398-42f0-9fc0-8209661f2e6a";
+	Value = "Taquitos";
+}
+DataFieldValue eFCA135DD
+{
+	Id = "b5bc7560-791d-40d4-b279-303ae6408969";
+	Value = "Heat the oven to 400?. Heat the oil in a large skillet over medium heat. Add the onion and garlic and cook them for 3 minutes, stirring often. Add the beef and use a wooden spoon or a spatula to break it up while it cooks, until it is no longer red, about 3 minutes. Stir in 1/2 cup of the salsa, the chili powder, and the salt and pepper. Cook the mixture over low heat, stirring occasionally, for 10 minutes. Place the tortillas on a plate and cover them with damp paper towels. Microwave them until warm and pliable, about 45 seconds. Top each tortilla with 1/4 cup of the beef mixture, spreading it to an inch from the edges. Sprinkle cheese evenly over the beef. Roll up the tortillas and place them on a foil-lined baking sheet with the seam sides down. Brush the taquitos lightly with vegetable oil, then bake them until the filling is heated through and the tortillas are lightly browned, about 8 to 12 minutes. Serve them hot with sour cream and/or salsa. Serves 4 to 6.";
+}
+DataFieldValue e44CBDFA
+{
+	Id = "9292ff15-21de-4254-bd46-b7039fbf4fbb";
+	Value = "tablespoon vegetable oil plus more for brushing on the taquitos";
+}
+DataFieldValue e95A10A32
+{
+	Id = "09a342a5-7502-48bd-8e3b-e9acc5116b2a";
+	Value = "https://dowapp.blob.core.windows.net/apps/65/e99bac62-b16a-45f4-92be-5201fe7b5a82/res/Mexican_3_600_C.jpg";
+}
+DataFieldValue e81DF0A6A
+{
+	Id = "f8284421-a2f7-4e00-8a57-dbcf0d07b34b";
+	Value = "true";
+}
+DataFieldValue eFF6DEE5D
+{
+	Id = "5dd7abe5-71ba-45fe-bc84-d38c84114c46";
+	Value = "600";
+}
+DataFieldValue eEBCB0346
+{
+	Id = "8eda453c-4f11-46c3-add3-2a48e664ffb9";
+	Value = "30";
+}
+DataRow eA10D6515
+{
+	Id = "fd6c2881-f761-4d43-9c8b-ab480328c2d7";
+	Cells = [eBCE58C01, e43307EC2, eDB878D53, eFB1AB591, eEA5ED28F, eA919714F, eAF0905F1, e310F07EB];
+}
+DataFieldValue eBCE58C01
+{
+	Id = "0282caed-8b67-46f2-a1e9-3501a0c7371e";
+	Value = "Mexico";
+}
+DataFieldValue e43307EC2
+{
+	Id = "fe5a3def-d06a-43a6-acfd-6de3b3311b8b";
+	Value = "Pulled Pork Enchilada";
+}
+DataFieldValue eDB878D53
+{
+	Id = "4bcac80c-054d-459c-bc24-95a46fb00bc3";
+	Value = "Trim fat from pork. In a 3 1/2- or 4-quart slow cooker combine pork shoulder, broth, onion, garlic, cumin, ground chipotle chili pepper or chili powder, and salt. Cover and cook on low-heat setting for 10 to 11 hours or on high-heat setting for 5 to 6 hours. 2. Preheat oven to 400 degrees F. Remove pork from slow cooker, reserving cooking liquid. Using two forks, pull meat into coarse strands. 3. In a large bowl combine pork, 1/2 cup of the enchilada sauce, 2 tablespoons of the reserved cooking liquid, and the 1 tablespoon snipped cilantro. Set aside. 4. In a medium bowl combine the remaining enchilada sauce, 1/4 cup of the reserved cooking liquid (discard any remaining cooking liquid), and the diced green chili peppers. Spread about 1/2 cup of enchilada-green chili pepper mixture in the bottom of a 3-quart rectangular baking dish; set aside. 5. Divide pork mixture and 1 1/2 cups of the cheese among tortillas, placing meat and cheese near the edge of each tortilla. Roll up tortillas. Place filled tortillas, seam sides down, in the prepared baking dish (place tortillas close together); top with the remaining enchilada-green chili pepper mixture. Cover with foil; bake for 25 minutes. Sprinkle with the remaining 1/2 cup cheese. Bake, uncovered, about 5 minutes more or until heated through and cheese is softened and starts to brown slightly.6. Sprinkle with additional snipped cilantro and tomato. If desired, serve with sour cream. Makes 6 servings.";
+}
+DataFieldValue eFB1AB591
+{
+	Id = "595cfeea-2f46-4beb-84cb-8db66fb98490";
+	Value = "3 1/2 pounds boneless pork shoulder, 1 14 ounce can chicken broth, 1/2 cup chopped onion, 6 cloves garlic minced, 1 tablespoon ground cumin, 2 or 3 teaspoons ground chipotle chili pepper or hot chili powder, 1 teaspoon salt, 3 10 ounce cans enchilada sauce, 1 tablespoon snipped fresh cilantro, 1 4 ounce can diced green chili peppers, 8 ounces cotija cheese shredded, 8 inches flour tortillas, Snipped fresh cilantro yDiced tomato or quartered grape tomatoes Sour cream.";
+}
+DataFieldValue eEA5ED28F
+{
+	Id = "bb8d9d78-abd3-4f75-b98b-fa2a35fca382";
+	Value = "https://dowapp.blob.core.windows.net/apps/65/e99bac62-b16a-45f4-92be-5201fe7b5a82/res/Mexican_4_600_C.jpg";
+}
+DataFieldValue eA919714F
+{
+	Id = "77d73176-d8ce-407c-b962-06cff9fa2145";
+	Value = "true";
+}
+DataFieldValue eAF0905F1
+{
+	Id = "2dcf4779-41c6-42d5-8fc2-c3a09312a85d";
+	Value = "600";
+}
+DataFieldValue e310F07EB
+{
+	Id = "c8e14cce-adee-4b34-9e6e-5450bfe65511";
+	Value = "30";
+}
+DataRow e31F07A89
+{
+	Id = "caba36fe-654a-4cde-ac3e-9ed56dd8d8a9";
+	Cells = [eD539F37B, e7027ED70, e202D93DF, eC93A3B69, e96E8AA37, e9E915344, e1AC57182, eD558939E];
+}
+DataFieldValue eD539F37B
+{
+	Id = "a373b096-e54a-4386-91d6-93108012836b";
+	Value = "Mexico";
+}
+DataFieldValue e7027ED70
+{
+	Id = "fdceaff2-24e9-422f-9cd1-a902e8e9b7ad";
+	Value = "Salsa Verde";
+}
+DataFieldValue e202D93DF
+{
+	Id = "9181d787-30ac-4414-9096-81bc15a1e14c";
+	Value = "1 Remove papery husks from tomatillos and rinse well.2a Roasting method Cut in half and place cut side down on a foil-lined baking sheet. Place under a broiler for about 5-7 minutes to lightly blacken the skin.2b Boiling method Place tomatillos in a saucepan, cover with water. Bring to a boil and simmer for 5 minutes. Remove tomatillos with a slotted spoon.2 Place tomatillos, lime juice, onions, cilantro, chili peppers, sugar in a food processor (or blender) and pulse until all ingredients are finely chopped and mixed. Season to taste with salt. Cool in refrigerator. Serve with chips or as a salsa accompaniment to Mexican dishes. Makes 3 cups.";
+}
+DataFieldValue eC93A3B69
+{
+	Id = "5a547698-cb6e-4dde-9365-58afca17362f";
+	Value = "1 1/2 lb tomatillos, 1/2 cup chopped white onion, 1/2 cup cilantro leaves, 1 Tbsp fresh lime juice, 1/4 teaspoon sugar, 2 Jalapeño peppers OR 2 Serrano peppers stemmed seeded and chopped y Salt to taste.";
+}
+DataFieldValue e96E8AA37
+{
+	Id = "58c1e3a4-9229-49c0-a40a-5c7c62734753";
+	Value = "https://dowapp.blob.core.windows.net/apps/65/e99bac62-b16a-45f4-92be-5201fe7b5a82/res/Mexican_5_600_C.jpg";
+}
+DataFieldValue e9E915344
+{
+	Id = "80df1bda-7d4e-48a6-b135-638fe7a86438";
+	Value = "true";
+}
+DataFieldValue e1AC57182
+{
+	Id = "4faa36a4-f86f-4726-b3fb-add4a0370100";
+	Value = "600";
+}
+DataFieldValue eD558939E
+{
+	Id = "3a45dc76-3e1d-4fc7-a1f8-d17fa54c012f";
+	Value = "30";
+}
+DataRow e105E7209
+{
+	Id = "dd103a76-d44e-480b-8aa6-198b93d51e74";
+	Cells = [e14D9A0BC, eA1E2C4C3, e613E6E47, e95AF4485, eADCA1CD3, e1E851E84, e8E5B84C4, e3DFD9E68];
+}
+DataFieldValue e14D9A0BC
+{
+	Id = "47cbe28d-8712-4239-a7e8-d4f648902008";
+	Value = "-";
+}
+DataFieldValue eA1E2C4C3
+{
+	Id = "54aa8d23-4c48-493c-acda-b9a46742f3dc";
+	Value = "name";
+}
+DataFieldValue e613E6E47
+{
+	Id = "8b762a98-5d48-4405-87db-b7c1d9983eda";
+	Value = "elaboration";
+}
+DataFieldValue e95AF4485
+{
+	Id = "7b830d64-f12c-494f-aece-1fa2104ce8ae";
+	Value = "ingredients";
+}
+DataFieldValue eADCA1CD3
+{
+	Id = "9cd75fe9-001d-4303-9937-316a0049b839";
+	Value = "https://dowapp.blob.core.windows.net/apps/65/e99bac62-b16a-45f4-92be-5201fe7b5a82/res/5334b779-d301-4b94-8f57-c686bc094c56.png";
+}
+DataFieldValue e1E851E84
+{
+	Id = "62c75f5a-6342-41cf-9c5e-1f531f5a1311";
+	Value = "false";
+}
+DataFieldValue e8E5B84C4
+{
+	Id = "ce81c764-dcda-438f-8223-9c7c0114192f";
+	Value = "0";
+}
+DataFieldValue e3DFD9E68
+{
+	Id = "1242d599-42bf-4b6a-9e79-6dd30a8c1c9b";
+	Value = "22";
+}
+Tile e88076591
+{
+	Id = "ff6d2467-466a-412e-9dcf-3118e608ccd8";
+	TileType = "CycleTile";
+	Title = "Recipes";
+	BackgroundImageUrl = "Logo.png";
+	BackTitle = "Recipes";
+	BackBackgroundImageUrl = "https://dowapp.blob.core.windows.net/apps/65/e99bac62-b16a-45f4-92be-5201fe7b5a82/res/TileBackBackground.png";
+	Content = "Recipes";
+	Count = "0";
+	SmallBackgroundImageUrl = "Logo.png";
+	WideBackgroundImageUrl = "Logo.png";
+	HasLarge = false;
+}
+LockScreen e4409FA28
+{
+	Id = "0416b73b-9f1f-4df6-b703-dfc0bc118ae5";
+	LockScreenImageWVGAUrl = "https://dowapp.blob.core.windows.net/apps/65/e99bac62-b16a-45f4-92be-5201fe7b5a82/res/Splashscreen-720-red.png";
+	LockScreenImageWXGAUrl = "https://dowapp.blob.core.windows.net/apps/65/e99bac62-b16a-45f4-92be-5201fe7b5a82/res/Splashscreen-720-red.png";
+	LockScreenImage720pUrl = "https://dowapp.blob.core.windows.net/apps/65/e99bac62-b16a-45f4-92be-5201fe7b5a82/res/Splashscreen-720-red.png";
+}

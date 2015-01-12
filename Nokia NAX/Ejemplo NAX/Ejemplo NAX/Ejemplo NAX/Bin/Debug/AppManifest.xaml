@@ -1,0 +1,6 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Ejemplo NAX" EntryPointType="Ejemplo_NAX.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Ejemplo NAX" Source="Ejemplo NAX.dll" />
+    <AssemblyPart x:Name="Inneractive.Ad" Source="Inneractive.Ad.dll" />
+  </Deployment.Parts>
+</Deployment>

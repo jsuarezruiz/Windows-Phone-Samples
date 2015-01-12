@@ -1,0 +1,17 @@
+Assets\Cortana.jpg
+Assets\Logo.scale-240.png
+Assets\SmallLogo.scale-240.png
+Assets\SplashScreen.scale-240.png
+Assets\Square71x71Logo.scale-240.png
+Assets\StoreLogo.scale-240.png
+Assets\WideLogo.scale-240.png
+App.xbf
+Ejemplo Cortana.xr.xml
+Themes\Colors.xbf
+Themes\GridView.xbf
+Views\MainView.xbf
+Views\SearchView.xbf
+Libs\Microsoft.Practices.ServiceLocation.dll
+Libs\Microsoft.Practices.Unity.dll
+Libs\Microsoft.Practices.Unity.RegistrationByConvention.dll
+VoiceCommandDefinitions.xml

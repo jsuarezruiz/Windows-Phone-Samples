@@ -1,0 +1,50 @@
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\App.g.i.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\App.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\XamlTypeInfo.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\App.xaml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\App.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\XamlSaveStateFile.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\bin\Debug\App.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\bin\Debug\Ejemplo Transiciones.xr.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\bin\Debug\Ejemplo Transiciones.exe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\bin\Debug\Ejemplo Transiciones.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\bin\Debug\resources.pri
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\bin\Debug\AppxManifest.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\bin\Debug\Ejemplo Transiciones.build.appxrecipe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\Ejemplo Transiciones.exe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\Ejemplo Transiciones.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\priconfig.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\priconfig.xml.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\layout.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\layout.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\resources.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\resources.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\pri.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\pri.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\qualifiers.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\qualifiers.txt.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\ProjectArchitectures.txt
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\Ejemplo Transiciones.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\Views\Pagina1View.g.i.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\Views\Pagina1View.g.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\Views\Pagina2View.g.i.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\Views\Pagina2View.g.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\Views\Pagina3View.g.i.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\Views\Pagina3View.g.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\Views\Pagina4View.g.i.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\Views\Pagina4View.g.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\Views\Pagina1View.xaml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\Views\Pagina2View.xaml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\Views\Pagina3View.xaml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\Views\Pagina4View.xaml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\Views\Pagina1View.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\Views\Pagina2View.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\Views\Pagina3View.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\Views\Pagina4View.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\bin\Debug\Views\Pagina1View.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\bin\Debug\Views\Pagina2View.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\bin\Debug\Views\Pagina3View.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\bin\Debug\Views\Pagina4View.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\bin\Debug\Microsoft.Practices.Unity.NetCore.dll
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Transiciones\Ejemplo Transiciones\obj\Debug\Ejemplo Transiciones.csproj.GenerateResource.Cache

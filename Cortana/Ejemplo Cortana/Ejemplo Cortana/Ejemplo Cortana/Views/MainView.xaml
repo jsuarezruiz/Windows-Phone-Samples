@@ -1,0 +1,51 @@
+﻿<base:PageBase
+    x:Class="Ejemplo_Cortana.MainView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Ejemplo_Cortana"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:base="using:Ejemplo_Cortana.Views.Base"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    DataContext="{Binding MainViewModel, Source={StaticResource Locator}}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Margin="24,17,0,28">
+            <TextBlock Text="Javier Suárez Blog" Style="{ThemeResource TitleTextBlockStyle}" Typography.Capitals="SmallCaps"/>
+            <TextBlock Text="Integración Cortana" Style="{ThemeResource HeaderTextBlockStyle}" 
+                       FontSize="52"/>
+        </StackPanel>
+        <ScrollViewer Grid.Row="1" Margin="12">
+            <StackPanel>
+                <Image Source="ms-appx:///Assets/Cortana.jpg" Stretch="UniformToFill"/>
+                <TextBlock Text="En este ejemplo vamos a integrar la aplicación con Cortana. La aplicación permite buscar la clasificación de pilotos de Formula 1 por año. Permitiremos realizar la búsqueda directamente desde Cortana preguntando por la clasificación de un determinado año (Formula One standing 1985)." 
+                       FontSize="18"
+                       TextWrapping="WrapWholeWords"/>
+                <Button HorizontalAlignment="Stretch" HorizontalContentAlignment="Left"
+                    Content="{Binding SelectedYear}">
+                    <Button.Flyout>
+                        <ListPickerFlyout Title="SELECCIONA AÑO" ItemsSource="{Binding Years}"
+                                      SelectedItem="{Binding SelectedYear, Mode=TwoWay}">
+                            <ListPickerFlyout.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel>
+                                        <TextBlock Text="{Binding}" FontSize="{StaticResource TextStyleExtraLargeFontSize}"/>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ListPickerFlyout.ItemTemplate>
+                        </ListPickerFlyout>
+                    </Button.Flyout>
+                </Button>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton Label="buscar" Icon="Find" Command="{Binding SearchCommand}" />
+        </CommandBar>
+    </Page.BottomAppBar>
+</base:PageBase>

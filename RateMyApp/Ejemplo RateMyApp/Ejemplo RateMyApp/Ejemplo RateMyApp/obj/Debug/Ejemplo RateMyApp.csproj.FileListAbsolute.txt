@@ -1,0 +1,20 @@
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo RateMyApp\Ejemplo RateMyApp\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo RateMyApp\Ejemplo RateMyApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo RateMyApp\Ejemplo RateMyApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo RateMyApp\Ejemplo RateMyApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo RateMyApp\Ejemplo RateMyApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo RateMyApp\Ejemplo RateMyApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo RateMyApp\Ejemplo RateMyApp\Bin\Debug\Ejemplo RateMyApp.dll
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo RateMyApp\Ejemplo RateMyApp\Bin\Debug\Ejemplo RateMyApp.pdb
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo RateMyApp\Ejemplo RateMyApp\Bin\Debug\AppManifest.xaml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo RateMyApp\Ejemplo RateMyApp\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo RateMyApp\Ejemplo RateMyApp\Bin\Debug\Ejemplo_RateMyApp_Debug_AnyCPU.xap
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo RateMyApp\Ejemplo RateMyApp\Bin\Debug\RateMyApp.dll
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo RateMyApp\Ejemplo RateMyApp\obj\Debug\App.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo RateMyApp\Ejemplo RateMyApp\obj\Debug\MainPage.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo RateMyApp\Ejemplo RateMyApp\obj\Debug\Ejemplo RateMyApp.g.resources
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo RateMyApp\Ejemplo RateMyApp\obj\Debug\Ejemplo_RateMyApp.Resources.AppResources.resources
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo RateMyApp\Ejemplo RateMyApp\obj\Debug\Ejemplo RateMyApp.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo RateMyApp\Ejemplo RateMyApp\obj\Debug\Ejemplo RateMyApp.dll
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo RateMyApp\Ejemplo RateMyApp\obj\Debug\Ejemplo RateMyApp.pdb
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo RateMyApp\Ejemplo RateMyApp\obj\Debug\XapCacheFile.xml

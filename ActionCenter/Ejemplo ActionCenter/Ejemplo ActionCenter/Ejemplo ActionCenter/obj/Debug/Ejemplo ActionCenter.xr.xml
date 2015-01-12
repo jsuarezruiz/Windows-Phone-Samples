@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.PropertyPathNames>
+    <RootPropertyPathName Name="EditViewModel" />
+    <RootPropertyPathName Name="RemoveAllCommand" />
+    <RootPropertyPathName Name="RemoveGroupCommand" />
+    <RootPropertyPathName Name="RemoveTagCommand" />
+    <RootPropertyPathName Name="SendNotificationsCommand" />
+    <RootPropertyPathName Name="MainViewModel" />
+    <RootPropertyPathName Name="EditCommand" />
+    <RootPropertyPathName Name="QueueCommand" />
+    <RootPropertyPathName Name="GhostCommand" />
+    <RootPropertyPathName Name="ToastCommand" />
+    <RootPropertyPathName Name="GhostViewModel" />
+    <RootPropertyPathName Name="SendGhostNotificationCommand" />
+    <RootPropertyPathName Name="QueueViewModel" />
+    <RootPropertyPathName Name="ToastViewModel" />
+    <RootPropertyPathName Name="SendNotificationCommand" />
+  </Roots.PropertyPathNames>
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application">
+      <RootProperty Name="Resources" />
+    </RootType>
+    <RootType FullName="Ejemplo_ActionCenter.ViewModels.Base.ViewModelLocator" />
+    <RootType FullName="Ejemplo_ActionCenter.Views.Base.PageBase">
+      <RootProperty Name="Background" />
+      <RootProperty Name="DataContext" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Data.Binding">
+      <RootProperty Name="Source" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.StaticResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Children" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Children" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="Text" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="Inlines" />
+      <RootProperty Name="Margin" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Content" />
+      <RootProperty Name="Command" />
+    </RootType>
+    <RootType FullName="Ejemplo_ActionCenter.Views.EditView" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ScrollViewer">
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Ejemplo_ActionCenter.Views.MainView" />
+    <RootType FullName="Ejemplo_ActionCenter.Views.GhostView" />
+    <RootType FullName="Ejemplo_ActionCenter.Views.QueueView" />
+    <RootType FullName="Ejemplo_ActionCenter.Views.ToastView" />
+  </Roots.RootTypes>
+</Roots>

@@ -1,0 +1,41 @@
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\Ejemplo Flurry Analytics.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\Ejemplo Flurry Analytics.pdb
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\AppManifest.xaml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\Ejemplo_Flurry_Analytics_Debug_AnyCPU.xap
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\Cimbalino.Phone.Toolkit.Background.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\Cimbalino.Phone.Toolkit.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\FlurryWP8SDK.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\Microsoft.Practices.Unity.WindowsPhone.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\Cimbalino.Phone.Toolkit.pdb
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\Cimbalino.Phone.Toolkit.xml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\Cimbalino.Phone.Toolkit.Background.pdb
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\Cimbalino.Phone.Toolkit.Background.xml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\Microsoft.Practices.Unity.WindowsPhone.xml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\obj\Debug\App.g.cs
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\obj\Debug\Views\MainView.g.cs
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\obj\Debug\Views\SecondaryView.g.cs
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\obj\Debug\Ejemplo Flurry Analytics.g.resources
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\obj\Debug\Ejemplo_Flurry_Analytics.Resources.AppResources.resources
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\obj\Debug\Ejemplo Flurry Analytics.csproj.GenerateResource.Cache
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\obj\Debug\Ejemplo Flurry Analytics.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\obj\Debug\Ejemplo Flurry Analytics.pdb
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\obj\Debug\XapCacheFile.xml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Flurry Analytics\Ejemplo Flurry Analytics\obj\Debug\Ejemplo Flurry Analytics.csprojResolveAssemblyReference.cache

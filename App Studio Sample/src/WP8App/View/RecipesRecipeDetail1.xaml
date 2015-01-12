@@ -1,0 +1,80 @@
+<phone:PhoneApplicationPage 
+    x:Class="DoWapp.View.RecipesRecipeDetail1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+	xmlns:controls="clr-namespace:DoWapp.Controls"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource CustomApplicationTextBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True"
+	DataContext="{Binding Path=RecipesRecipeDetail1ViewModel, Source={StaticResource ViewModelLocator}}">
+    <toolkit:TransitionService.NavigationInTransition>
+        <toolkit:NavigationInTransition>
+            <toolkit:NavigationInTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardIn"/>
+            </toolkit:NavigationInTransition.Backward>
+            <toolkit:NavigationInTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardIn"/>
+            </toolkit:NavigationInTransition.Forward>
+        </toolkit:NavigationInTransition>
+    </toolkit:TransitionService.NavigationInTransition>
+    <toolkit:TransitionService.NavigationOutTransition>
+        <toolkit:NavigationOutTransition>
+            <toolkit:NavigationOutTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardOut"/>
+            </toolkit:NavigationOutTransition.Backward>
+            <toolkit:NavigationOutTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardOut"/>
+            </toolkit:NavigationOutTransition.Forward>
+        </toolkit:NavigationOutTransition>
+    </toolkit:TransitionService.NavigationOutTransition>
+    <phone:PhoneApplicationPage.Resources>
+    </phone:PhoneApplicationPage.Resources>
+    <Grid x:Name="LayoutRoot" Background="{StaticResource CustomApplicationBackgroundBrush}">
+        <phone:Pivot Foreground="{StaticResource CustomApplicationTextBrush}">
+            <phone:Pivot.Title>
+                <StackPanel x:Name="TitlePanel" Orientation="Horizontal" Margin="0,15,0,0">                    
+                    <TextBlock Text="{Binding CurrentRecipe.Name}" FontFamily="Segoe WP Black" Foreground="{StaticResource CustomTitleApplicationTextBrush}" VerticalAlignment="Stretch"/>
+                </StackPanel>
+            </phone:Pivot.Title>
+            <phone:Pivot.Background>
+                <ImageBrush ImageSource="..\Resources\background-recipes-2.png"/>
+            </phone:Pivot.Background>
+            <phone:PivotItem Header="elaboration">
+				<Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="250"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Image Source="{Binding CurrentRecipe.Image, Converter={StaticResource StringToImageInResources}}" Stretch="UniformToFill"/>
+                    <ScrollViewer Grid.Row="1" Margin="15">
+						<StackPanel>
+							<TextBlock Text="{Binding CurrentRecipe.Instructions}" FontSize="24" TextWrapping="Wrap" Foreground="{StaticResource CustomApplicationTextBrush}"/>
+						</StackPanel>
+                    </ScrollViewer>
+                </Grid>
+            </phone:PivotItem>
+            <phone:PivotItem Header="ingredients">
+                <ScrollViewer Grid.Row="1" Margin="15">
+					<StackPanel>
+						<TextBlock Text="{Binding CurrentRecipe.Ingredients}" FontSize="24" TextWrapping="Wrap" Foreground="{StaticResource CustomApplicationTextBrush}"/>
+					</StackPanel>
+                </ScrollViewer>
+            </phone:PivotItem>
+        </phone:Pivot>
+    </Grid>
+	<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True"  Mode="Default" BackgroundColor="#E51400" Opacity="1.0">
+			<shell:ApplicationBarIconButton x:Name="btnShareRecipesRecipeDetail1StaticControl" IconUri="/Images/Icons/share.png" Text="Share" Click="btnShareRecipesRecipeDetail1StaticControl_Click"/>
+			<shell:ApplicationBarIconButton x:Name="btnPinToStartRecipesRecipeDetail1StaticControl" IconUri="/Images/Icons/pin.png" Text="Pin" Click="btnPinToStartRecipesRecipeDetail1StaticControl_Click"/>
+			<shell:ApplicationBarIconButton x:Name="btnReadRecipesRecipeDetail1StaticControl" IconUri="/Images/Icons/read.png" Text="Read" Click="btnReadRecipesRecipeDetail1StaticControl_Click"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+</phone:PhoneApplicationPage>

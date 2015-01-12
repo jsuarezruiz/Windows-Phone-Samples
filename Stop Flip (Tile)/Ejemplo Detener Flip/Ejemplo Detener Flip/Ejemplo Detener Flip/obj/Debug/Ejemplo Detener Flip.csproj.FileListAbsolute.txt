@@ -1,0 +1,22 @@
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\Bin\Debug\Ejemplo Detener Flip.dll
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\Bin\Debug\Ejemplo Detener Flip.pdb
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\Bin\Debug\AppManifest.xaml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\Bin\Debug\Ejemplo_Detener_Flip_Debug_AnyCPU.xap
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\obj\Debug\App.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\obj\Debug\MainPage.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\obj\Debug\Ejemplo Detener Flip.g.resources
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\obj\Debug\Ejemplo_Detener_Flip.Resources.AppResources.resources
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\obj\Debug\Ejemplo Detener Flip.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\obj\Debug\Ejemplo Detener Flip.dll
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\obj\Debug\Ejemplo Detener Flip.pdb
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\obj\Debug\XapCacheFile.xml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\Bin\Debug\Microsoft.Practices.Unity.WindowsPhone.dll
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\Bin\Debug\Microsoft.Practices.Unity.WindowsPhone.xml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Detener Flip\Ejemplo Detener Flip\obj\Debug\Ejemplo Detener Flip.csprojResolveAssemblyReference.cache

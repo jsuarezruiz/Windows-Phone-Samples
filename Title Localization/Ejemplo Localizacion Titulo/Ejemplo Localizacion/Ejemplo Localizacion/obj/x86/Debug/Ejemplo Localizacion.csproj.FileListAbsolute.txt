@@ -1,0 +1,24 @@
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\x86\Debug\AppResLib.dll.0c0a.mui
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\x86\Debug\Ejemplo Localizacion.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\x86\Debug\Ejemplo Localizacion.pdb
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\x86\Debug\es-ES\Ejemplo Localizacion.resources.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\x86\Debug\AppManifest.xaml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\x86\Debug\Ejemplo_Localizacion_Debug_x86.xap
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\obj\x86\Debug\App.g.cs
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\obj\x86\Debug\MainPage.g.cs
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\obj\x86\Debug\Ejemplo Localizacion.g.resources
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\obj\x86\Debug\Ejemplo_Localizacion.Resources.AppResources.resources
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\obj\x86\Debug\Ejemplo_Localizacion.Resources.AppResources.es-ES.resources
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\obj\x86\Debug\Ejemplo Localizacion.csproj.GenerateResource.Cache
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\obj\x86\Debug\es-ES\Ejemplo Localizacion.resources.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\obj\x86\Debug\Ejemplo Localizacion.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\obj\x86\Debug\Ejemplo Localizacion.pdb
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\obj\x86\Debug\XapCacheFile.xml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Localizacion\Ejemplo Localizacion\Bin\x86\Debug\AppResLib.dll.0809.mui

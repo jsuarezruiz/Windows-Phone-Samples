@@ -1,0 +1,9 @@
+C:\DoWapp\Jobs\67454.fckwwj\bin\WPAppStudio.Repositories.dll
+C:\DoWapp\Jobs\67454.fckwwj\bin\WPAppStudio.Repositories.pdb
+C:\DoWapp\Jobs\67454.fckwwj\bin\WPAppStudio.Repositories.dll.CodeAnalysisLog.xml
+C:\DoWapp\Jobs\67454.fckwwj\bin\WPAppStudio.Repositories.dll.lastcodeanalysissucceeded
+C:\DoWapp\Jobs\67454.fckwwj\src\Repositories\obj\Release\Repositories.csprojResolveAssemblyReference.cache
+C:\DoWapp\Jobs\67454.fckwwj\src\Repositories\obj\Release\WPAppStudio.Repositories.Resources.AppResources.resources
+C:\DoWapp\Jobs\67454.fckwwj\src\Repositories\obj\Release\Repositories.csproj.GenerateResource.Cache
+C:\DoWapp\Jobs\67454.fckwwj\src\Repositories\obj\Release\WPAppStudio.Repositories.dll
+C:\DoWapp\Jobs\67454.fckwwj\src\Repositories\obj\Release\WPAppStudio.Repositories.pdb

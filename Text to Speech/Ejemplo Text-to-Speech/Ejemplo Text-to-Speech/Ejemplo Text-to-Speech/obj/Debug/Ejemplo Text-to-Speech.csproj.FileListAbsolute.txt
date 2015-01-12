@@ -1,0 +1,18 @@
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Text-to-Speech\Ejemplo Text-to-Speech\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Text-to-Speech\Ejemplo Text-to-Speech\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Text-to-Speech\Ejemplo Text-to-Speech\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Text-to-Speech\Ejemplo Text-to-Speech\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Text-to-Speech\Ejemplo Text-to-Speech\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Text-to-Speech\Ejemplo Text-to-Speech\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Text-to-Speech\Ejemplo Text-to-Speech\Bin\Debug\Ejemplo Text-to-Speech.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Text-to-Speech\Ejemplo Text-to-Speech\Bin\Debug\Ejemplo Text-to-Speech.pdb
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Text-to-Speech\Ejemplo Text-to-Speech\Bin\Debug\AppManifest.xaml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Text-to-Speech\Ejemplo Text-to-Speech\Bin\Debug\Ejemplo_Text_to_Speech_Debug_AnyCPU.xap
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Text-to-Speech\Ejemplo Text-to-Speech\obj\Debug\App.g.cs
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Text-to-Speech\Ejemplo Text-to-Speech\obj\Debug\MainPage.g.cs
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Text-to-Speech\Ejemplo Text-to-Speech\obj\Debug\Ejemplo Text-to-Speech.g.resources
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Text-to-Speech\Ejemplo Text-to-Speech\obj\Debug\Ejemplo_Text_to_Speech.Resources.AppResources.resources
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Text-to-Speech\Ejemplo Text-to-Speech\obj\Debug\Ejemplo Text-to-Speech.csproj.GenerateResource.Cache
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Text-to-Speech\Ejemplo Text-to-Speech\obj\Debug\Ejemplo Text-to-Speech.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Text-to-Speech\Ejemplo Text-to-Speech\obj\Debug\Ejemplo Text-to-Speech.pdb
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Text-to-Speech\Ejemplo Text-to-Speech\obj\Debug\XapCacheFile.xml

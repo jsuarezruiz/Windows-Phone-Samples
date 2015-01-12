@@ -1,0 +1,45 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Sunday, February 24, 2013 21:27:53
+   Source : H:\Repositories\DoWapp\src\Model\DoWApp.Model.Radarc\bin\Release\
+     Dest : H:\Repositories\DoWapp\src\Formulas\WP8\DoWAppWP8\Templates\WP8Model\Dlls\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   9	H:\Repositories\DoWapp\src\Model\DoWApp.Model.Radarc\bin\Release\
+	  *EXTRA File 		       0	DeployDlls.log
+	  *EXTRA File 		    2249	DeployDlls.log.orig
+	  *EXTRA File 		  344576	Icinetic.DoWapp.Model.dll.orig
+	  *EXTRA File 		   1.0 m	Icinetic.DoWapp.Model.pdb.orig
+	  *EXTRA File 		    8704	Icinetic.DoWApp.Model.Radarc.dll.orig
+	  *EXTRA File 		   19968	Icinetic.DoWApp.Model.Radarc.pdb.orig
+	          same		  260096	Icinetic.Core.Model.dll
+	          same		  346112	Icinetic.Onion.dll
+	          same		    7680	icinetic.Radarc.DSLs.Domain.MEF.dll
+	          same		   15872	icinetic.Radarc.DSLs.Domain.MEF.pdb
+	          same		    5632	OnionToParticipantMEF.dll
+	    Newer     		  346624	Icinetic.DoWapp.Model.dll  0%   37%   75%  100%  
+	    Newer     		  935424	Icinetic.DoWapp.Model.pdb  0%   28%   56%   84%  100%  
+	    Newer     		    8704	Icinetic.DoWApp.Model.Radarc.dll  0%  100%  
+	    Newer     		   17920	Icinetic.DoWApp.Model.Radarc.pdb  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         0         0         0         0
+   Files :         9         4         5         0         0         6
+   Bytes :    1.85 m    1.24 m   620.5 k         0         0    1.40 m
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            42215225 Bytes/sec.
+   Speed :            2415.574 MegaBytes/min.
+   Ended : Sunday, February 24, 2013 21:27:53
+

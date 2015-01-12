@@ -1,0 +1,6 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Ejemplo Leer Código Barras" EntryPointType="Ejemplo_Leer_Código_Barras.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Ejemplo Leer Código Barras" Source="Ejemplo Leer Código Barras.dll" />
+    <AssemblyPart x:Name="zxing.wp8.0" Source="zxing.wp8.0.dll" />
+  </Deployment.Parts>
+</Deployment>

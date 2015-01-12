@@ -1,0 +1,18 @@
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo LongListSelector\Ejemplo LongListSelector\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo LongListSelector\Ejemplo LongListSelector\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo LongListSelector\Ejemplo LongListSelector\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo LongListSelector\Ejemplo LongListSelector\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo LongListSelector\Ejemplo LongListSelector\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo LongListSelector\Ejemplo LongListSelector\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo LongListSelector\Ejemplo LongListSelector\Bin\Debug\Ejemplo LongListSelector.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo LongListSelector\Ejemplo LongListSelector\Bin\Debug\Ejemplo LongListSelector.pdb
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo LongListSelector\Ejemplo LongListSelector\Bin\Debug\AppManifest.xaml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo LongListSelector\Ejemplo LongListSelector\Bin\Debug\Ejemplo_LongListSelector_Debug_AnyCPU.xap
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo LongListSelector\Ejemplo LongListSelector\obj\Debug\App.g.cs
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo LongListSelector\Ejemplo LongListSelector\obj\Debug\MainPage.g.cs
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo LongListSelector\Ejemplo LongListSelector\obj\Debug\Ejemplo LongListSelector.g.resources
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo LongListSelector\Ejemplo LongListSelector\obj\Debug\Ejemplo_LongListSelector.Resources.AppResources.resources
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo LongListSelector\Ejemplo LongListSelector\obj\Debug\Ejemplo LongListSelector.csproj.GenerateResource.Cache
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo LongListSelector\Ejemplo LongListSelector\obj\Debug\Ejemplo LongListSelector.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo LongListSelector\Ejemplo LongListSelector\obj\Debug\Ejemplo LongListSelector.pdb
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo LongListSelector\Ejemplo LongListSelector\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,20 @@
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Carga Scroll\Ejemplo Carga Scroll\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Carga Scroll\Ejemplo Carga Scroll\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Carga Scroll\Ejemplo Carga Scroll\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Carga Scroll\Ejemplo Carga Scroll\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Carga Scroll\Ejemplo Carga Scroll\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Carga Scroll\Ejemplo Carga Scroll\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Carga Scroll\Ejemplo Carga Scroll\Bin\Debug\Ejemplo Carga Scroll.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Carga Scroll\Ejemplo Carga Scroll\Bin\Debug\Ejemplo Carga Scroll.pdb
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Carga Scroll\Ejemplo Carga Scroll\Bin\Debug\AppManifest.xaml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Carga Scroll\Ejemplo Carga Scroll\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Carga Scroll\Ejemplo Carga Scroll\Bin\Debug\Ejemplo_Carga_Scroll_Debug_AnyCPU.xap
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Carga Scroll\Ejemplo Carga Scroll\Bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Carga Scroll\Ejemplo Carga Scroll\obj\Debug\App.g.cs
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Carga Scroll\Ejemplo Carga Scroll\obj\Debug\MainPage.g.cs
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Carga Scroll\Ejemplo Carga Scroll\obj\Debug\Ejemplo Carga Scroll.g.resources
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Carga Scroll\Ejemplo Carga Scroll\obj\Debug\Ejemplo_Carga_Scroll.Resources.AppResources.resources
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Carga Scroll\Ejemplo Carga Scroll\obj\Debug\Ejemplo Carga Scroll.csproj.GenerateResource.Cache
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Carga Scroll\Ejemplo Carga Scroll\obj\Debug\Ejemplo Carga Scroll.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Carga Scroll\Ejemplo Carga Scroll\obj\Debug\Ejemplo Carga Scroll.pdb
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Carga Scroll\Ejemplo Carga Scroll\obj\Debug\XapCacheFile.xml

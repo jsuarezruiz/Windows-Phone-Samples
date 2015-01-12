@@ -1,0 +1,21 @@
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\Bin\Debug\Ejemplo Lanzadores HERE.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\Bin\Debug\Ejemplo Lanzadores HERE.pdb
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\Bin\Debug\AppManifest.xaml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\Bin\Debug\Ejemplo_Lanzadores_HERE_Debug_AnyCPU.xap
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\Bin\Debug\HereLauncher.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\obj\Debug\App.g.cs
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\obj\Debug\MainPage.g.cs
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\obj\Debug\Ejemplo Lanzadores HERE.g.resources
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\obj\Debug\Ejemplo_Lanzadores_HERE.Resources.AppResources.resources
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\obj\Debug\Ejemplo Lanzadores HERE.csproj.GenerateResource.Cache
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\obj\Debug\Ejemplo Lanzadores HERE.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\obj\Debug\Ejemplo Lanzadores HERE.pdb
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\obj\Debug\XapCacheFile.xml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Lanzadores HERE\Ejemplo Lanzadores HERE\obj\Debug\Ejemplo Lanzadores HERE.csprojResolveAssemblyReference.cache

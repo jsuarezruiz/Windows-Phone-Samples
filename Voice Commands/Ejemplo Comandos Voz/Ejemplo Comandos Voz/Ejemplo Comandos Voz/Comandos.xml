@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.0">
+  <CommandSet xml:lang="es-ES">
+    <CommandPrefix>Ejemplo</CommandPrefix>
+    <Example> Mensaje B</Example>
+
+    <Command Name="Mensaje">
+      <Example> Mensaje B </Example>
+      <ListenFor> Mensaje {letra} </ListenFor>
+      <Feedback> Mensaje mostrado </Feedback>
+      <Navigate />
+    </Command>
+
+    <PhraseList Label="letra">
+      <Item> A </Item>
+      <Item> B </Item>
+      <Item> C </Item>
+    </PhraseList>
+   
+  </CommandSet>
+</VoiceCommands>

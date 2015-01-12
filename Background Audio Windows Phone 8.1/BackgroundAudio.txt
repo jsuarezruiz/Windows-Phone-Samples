@@ -1,0 +1,221 @@
+public class Event
+{
+     public string Name { get; set; }
+
+     public string Image { get; set; }
+
+     public string Duration { get; set; }
+
+     public string Url { get; set; }
+}
+
+private Event LoadEvent()
+{
+     return new Event
+     {
+          Name = "What’s New for Windows and Windows Phone Developers",
+          Image = "ms-appx:///Assets/Build.jpg",
+          Duration = "27 minutes, 43 seconds",
+          Url = "http://video.ch9.ms/ch9/b544/1a759a52-7309-40c6-aa63-0ef77b38b544/C9Live9001.mp3"
+     };
+}
+
+public override Task OnNavigatedTo(NavigationEventArgs args)
+{
+     // Cargamos los datos del evento
+     Event = LoadEvent();
+
+     return null;
+}
+
+public enum PlayerState
+{
+     Play,
+     Pause
+};
+
+private PlayerState _state;
+public PlayerState State
+{
+     get { return _state; }
+     set
+     {
+          _state = value;
+          RaisePropertyChanged();
+     }
+}
+
+private ICommand _playerCommand;
+
+public ICommand PlayerCommand
+{
+     get { return _playerCommand = _playerCommand ?? new DelegateCommand(PlayerCommandExecute); }
+}
+
+private void PlayerCommandExecute()
+{
+     if(State == PlayerState.Play)
+          // Play
+     else
+          // Stop
+}
+
+private void Play()
+{
+     State = PlayerState.Pause;
+     BackgroundMediaPlayer.SendMessageToBackground(new ValueSet
+     {
+          {
+               "Play",
+               _event.Url
+          },
+          {
+               "Title",
+               _event.Name
+          }
+     });
+}
+
+private void Pause()
+{
+     State = PlayerState.Play;
+     BackgroundMediaPlayer.SendMessageToBackground(new ValueSet
+     {
+          {
+               "Pause",
+               string.Empty
+          }
+     });
+}
+
+<Button VerticalAlignment="Stretch" 
+        BorderBrush="{x:Null}" Width="50"
+        Command="{Binding PlayerCommand}">
+     <Image Source="{Binding State, Converter={StaticResource StateToIconConverter}}"/>
+</Button>
+
+public class StateToIconConverter : IValueConverter
+{
+     private const string Play = "ms-appx:///Assets/Play.png";
+     private const string Stop = "ms-appx:///Assets/Stop.png";
+
+     public object Convert(object value, Type targetType, object parameter, string language)
+     {
+          var state = value as PlayerViewModel.PlayerState?;
+
+          if (state == null)
+              return string.Empty;
+
+          return state == PlayerViewModel.PlayerState.Play ? Play : Stop;
+     }
+
+     public object ConvertBack(object value, Type targetType, object parameter, string language)
+     {
+          return null;
+     }
+}
+
+private BackgroundTaskDeferral _deferral;
+private SystemMediaTransportControls _systemMediaTransportControl;
+private MediaPlayer _mediaPlayer;
+
+public void Run(IBackgroundTaskInstance taskInstance)
+{
+     // La clase SystemMediaTransportControls permite a tu aplicación usar los controles de 
+     // transporte multimedia del sistema proporcionados por Windows y actualizar la información 
+     // multimedia que se muestra.
+     _systemMediaTransportControl = SystemMediaTransportControls.GetForCurrentView();
+     _systemMediaTransportControl.IsEnabled = true;
+
+     BackgroundMediaPlayer.MessageReceivedFromForeground += MessageReceivedFromForeground;
+     BackgroundMediaPlayer.Current.CurrentStateChanged += BackgroundMediaPlayerCurrentStateChanged;
+
+     taskInstance.Canceled += OnCanceled;
+     taskInstance.Task.Completed += Taskcompleted;
+
+     _deferral = taskInstance.GetDeferral();
+}
+
+private void MessageReceivedFromForeground(object sender, MediaPlayerDataReceivedEventArgs e)
+{
+     ValueSet valueSet = e.Data;
+     foreach (string key in valueSet.Keys)
+     {
+          switch (key)
+          {
+               case "Play":
+                    Play(valueSet[key].ToString(), valueSet["Title"].ToString());
+                    break;
+               case "Pause":
+                    Pause();
+                    break;
+          }
+     }
+}
+
+private void Play(string url, string title)
+{
+     _mediaPlayer = BackgroundMediaPlayer.Current;
+     _mediaPlayer.AutoPlay = true;
+     _mediaPlayer.SetUriSource(new Uri(url));
+
+     _systemMediaTransportControl.ButtonPressed += MediaTransportControlButtonPressed;
+     _systemMediaTransportControl.IsPauseEnabled = true;
+     _systemMediaTransportControl.IsPlayEnabled = true;
+     _systemMediaTransportControl.DisplayUpdater.Type = MediaPlaybackType.Music;
+     _systemMediaTransportControl.DisplayUpdater.MusicProperties.Title = title;
+     _systemMediaTransportControl.DisplayUpdater.Update();
+}
+
+private void Pause()
+{
+     if (_mediaPlayer == null)
+          _mediaPlayer = BackgroundMediaPlayer.Current;
+
+     _mediaPlayer.Pause();
+}
+
+private void BackgroundMediaPlayerCurrentStateChanged(MediaPlayer sender, object args)
+{
+     switch (sender.CurrentState)
+     {
+          case MediaPlayerState.Playing:
+               _systemMediaTransportControl.PlaybackStatus = MediaPlaybackStatus.Playing;
+               break;
+          case MediaPlayerState.Paused:
+               _systemMediaTransportControl.PlaybackStatus = MediaPlaybackStatus.Paused;
+               break;
+          case MediaPlayerState.Stopped:
+               _systemMediaTransportControl.PlaybackStatus = MediaPlaybackStatus.Stopped;
+               break;
+          case MediaPlayerState.Closed:
+               _systemMediaTransportControl.PlaybackStatus = MediaPlaybackStatus.Closed;
+               break;
+     }
+}
+
+private void MediaTransportControlButtonPressed(SystemMediaTransportControls sender,
+            SystemMediaTransportControlsButtonPressedEventArgs args)
+{
+     switch (args.Button)
+     {
+          case SystemMediaTransportControlsButton.Play:
+               BackgroundMediaPlayer.Current.Play();
+               break;
+          case SystemMediaTransportControlsButton.Pause:
+               BackgroundMediaPlayer.Current.Pause();
+               break;
+     }
+}
+
+private void Taskcompleted(BackgroundTaskRegistration sender, BackgroundTaskCompletedEventArgs args)
+{
+     BackgroundMediaPlayer.Shutdown();
+     _deferral.Complete();
+}
+
+private void OnCanceled(IBackgroundTaskInstance sender, BackgroundTaskCancellationReason reason)
+{
+     BackgroundMediaPlayer.Shutdown();
+     _deferral.Complete();
+}

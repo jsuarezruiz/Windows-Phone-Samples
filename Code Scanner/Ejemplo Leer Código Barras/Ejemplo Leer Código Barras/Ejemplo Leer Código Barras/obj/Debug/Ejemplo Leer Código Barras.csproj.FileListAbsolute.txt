@@ -1,0 +1,22 @@
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\Bin\Debug\Ejemplo Leer Código Barras.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\Bin\Debug\Ejemplo Leer Código Barras.pdb
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\Bin\Debug\AppManifest.xaml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\Bin\Debug\Ejemplo_Leer_Código_Barras_Debug_AnyCPU.xap
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\Bin\Debug\zxing.wp8.0.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\Bin\Debug\zxing.wp8.0.pdb
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\Bin\Debug\zxing.wp8.0.xml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\obj\Debug\App.g.cs
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\obj\Debug\MainPage.g.cs
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\obj\Debug\Ejemplo Leer Código Barras.g.resources
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\obj\Debug\Ejemplo_Leer_Código_Barras.Resources.AppResources.resources
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\obj\Debug\Ejemplo Leer Código Barras.csproj.GenerateResource.Cache
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\obj\Debug\Ejemplo Leer Código Barras.dll
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\obj\Debug\Ejemplo Leer Código Barras.pdb
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Leer Código Barras\Ejemplo Leer Código Barras\obj\Debug\XapCacheFile.xml

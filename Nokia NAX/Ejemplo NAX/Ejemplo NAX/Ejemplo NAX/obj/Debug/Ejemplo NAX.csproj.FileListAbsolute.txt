@@ -1,0 +1,20 @@
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo NAX\Ejemplo NAX\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo NAX\Ejemplo NAX\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo NAX\Ejemplo NAX\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo NAX\Ejemplo NAX\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo NAX\Ejemplo NAX\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo NAX\Ejemplo NAX\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo NAX\Ejemplo NAX\Bin\Debug\Ejemplo NAX.dll
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo NAX\Ejemplo NAX\Bin\Debug\Ejemplo NAX.pdb
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo NAX\Ejemplo NAX\Bin\Debug\AppManifest.xaml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo NAX\Ejemplo NAX\Bin\Debug\Ejemplo_NAX_Debug_AnyCPU.xap
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo NAX\Ejemplo NAX\Bin\Debug\Inneractive.Ad.dll
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo NAX\Ejemplo NAX\obj\Debug\App.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo NAX\Ejemplo NAX\obj\Debug\MainPage.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo NAX\Ejemplo NAX\obj\Debug\Ejemplo NAX.g.resources
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo NAX\Ejemplo NAX\obj\Debug\Ejemplo_NAX.Resources.AppResources.resources
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo NAX\Ejemplo NAX\obj\Debug\Ejemplo NAX.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo NAX\Ejemplo NAX\obj\Debug\Ejemplo NAX.dll
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo NAX\Ejemplo NAX\obj\Debug\Ejemplo NAX.pdb
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo NAX\Ejemplo NAX\obj\Debug\XapCacheFile.xml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo NAX\Ejemplo NAX\obj\Debug\Ejemplo NAX.csprojResolveAssemblyReference.cache

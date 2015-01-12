@@ -1,0 +1,35 @@
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\bin\Debug\App.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\bin\Debug\Ejemplo Emulador Notificaciones.xr.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\bin\Debug\Ejemplo Emulador Notificaciones.exe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\bin\Debug\Ejemplo Emulador Notificaciones.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\bin\Debug\resources.pri
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\bin\Debug\AppxManifest.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\bin\Debug\Ejemplo Emulador Notificaciones.build.appxrecipe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\bin\Debug\Microsoft.Practices.Unity.NetCore.dll
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\App.g.i.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\App.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\XamlTypeInfo.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\App.xaml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\App.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\XamlSaveStateFile.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\Ejemplo Emulador Notificaciones.exe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\Ejemplo Emulador Notificaciones.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\Ejemplo Emulador Notificaciones.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\priconfig.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\priconfig.xml.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\layout.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\layout.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\resources.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\resources.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\pri.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\pri.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\qualifiers.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\qualifiers.txt.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\ProjectArchitectures.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\bin\Debug\Views\MainView.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\Views\MainView.g.i.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\Views\MainView.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\Views\MainView.xaml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\Views\MainView.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Emulador Notificaciones\Ejemplo Emulador Notificaciones\obj\Debug\Ejemplo Emulador Notificaciones.csprojResolveAssemblyReference.cache

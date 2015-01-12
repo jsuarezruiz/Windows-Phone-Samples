@@ -1,0 +1,39 @@
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Ejemplo Xbox Music.dll
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Ejemplo Xbox Music.pdb
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\AppManifest.xaml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Ejemplo_Xbox_Music_Debug_AnyCPU.xap
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\obj\Debug\App.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\obj\Debug\Ejemplo Xbox Music.g.resources
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\obj\Debug\Ejemplo_Xbox_Music.Resources.AppResources.resources
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\obj\Debug\Ejemplo Xbox Music.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\obj\Debug\Ejemplo Xbox Music.dll
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\obj\Debug\Ejemplo Xbox Music.pdb
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\obj\Debug\XapCacheFile.xml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\System.Net.Http.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\System.Net.Http.xml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\PortableRest.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Xbox.Music.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.xml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\PortableRest.xml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Xbox.Music.xml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Microsoft.Practices.Unity.WindowsPhone.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\Bin\Debug\Microsoft.Practices.Unity.WindowsPhone.xml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Xbox Music\Ejemplo Xbox Music\obj\Debug\View\MainPage.g.cs

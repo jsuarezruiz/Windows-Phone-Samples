@@ -1,0 +1,14 @@
+Assets\Logo.scale-240.png
+Assets\SmallLogo.scale-240.png
+Assets\SplashScreen.scale-240.png
+Assets\Square71x71Logo.scale-240.png
+Assets\StoreLogo.scale-240.png
+Assets\WideLogo.scale-240.png
+App.xbf
+Ejemplo ActionCenter.xr.xml
+Views\EditView.xbf
+Views\GhostView.xbf
+Views\MainView.xbf
+Views\QueueView.xbf
+Views\ToastView.xbf
+Libs\Microsoft.Practices.Unity.NetCore.dll

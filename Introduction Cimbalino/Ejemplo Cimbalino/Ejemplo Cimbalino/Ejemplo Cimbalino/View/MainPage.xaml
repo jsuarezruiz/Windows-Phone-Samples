@@ -1,0 +1,28 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Ejemplo_Cimbalino.View.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+    xmlns:cimbalinoBehavior="clr-namespace:Cimbalino.Phone.Toolkit.Behaviors;assembly=Cimbalino.Phone.Toolkit"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True"
+    DataContext="{Binding Path=MainViewModel, Source={StaticResource Locator}}">
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <i:Interaction.Behaviors>
+            <cimbalinoBehavior:ApplicationBarBehavior>
+                <cimbalinoBehavior:ApplicationBarIconButton Command="{Binding ShowMessageCommand, Mode=OneTime}" IconUri="/Toolkit.Content/ApplicationBar.Check.png" Text="info" IsVisible="{Binding IsSelectionDisabled}" />
+                <cimbalinoBehavior:ApplicationBarBehavior.MenuItems>
+                    <cimbalinoBehavior:ApplicationBarMenuItem Command="{Binding ShowMessageCommand, Mode=OneTime}" Text="info menu" />
+                </cimbalinoBehavior:ApplicationBarBehavior.MenuItems>
+            </cimbalinoBehavior:ApplicationBarBehavior>
+        </i:Interaction.Behaviors>  
+    </Grid>
+</phone:PhoneApplicationPage>

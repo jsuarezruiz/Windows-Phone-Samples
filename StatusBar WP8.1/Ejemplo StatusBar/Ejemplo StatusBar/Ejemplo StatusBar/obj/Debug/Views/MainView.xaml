@@ -1,0 +1,31 @@
+﻿<base:PageBase
+    x:Class="Ejemplo_StatusBar.MainView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Ejemplo_StatusBar"
+    xmlns:base="using:Ejemplo_StatusBar.Views.Base"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    DataContext="{Binding MainViewModel, Source={StaticResource Locator}}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Margin="24,17,0,28">
+            <TextBlock Text="Javier Suárez Blog" Style="{ThemeResource TitleTextBlockStyle}" Typography.Capitals="SmallCaps"/>
+            <TextBlock Text="StatusBar" Style="{ThemeResource HeaderTextBlockStyle}" 
+                       FontSize="52"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Margin="12" HorizontalAlignment="Center">
+            <Button Content="Ocultar Status Bar" Width="250" Command="{Binding HideStatusBarCommand}"/>
+            <Button Content="Mostrar Status Bar" Width="250" Command="{Binding ShowStatusBarCommand}" />
+            <Button Content=" Modificar Color Status Bar" Width="250" Command="{Binding ChangeColorCommand}" />
+            <Button Content="Mostrar Progress" Width="250" Command="{Binding ShowProgressCommand}" />
+            <Button Content=" Ocultar Progress" Width="250" Command="{Binding HideProgressCommand}" />
+        </StackPanel>
+    </Grid>
+</base:PageBase>
+

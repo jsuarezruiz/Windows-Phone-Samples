@@ -1,0 +1,75 @@
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\bin\Debug\App.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\bin\Debug\Themes\GridView.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\bin\Debug\Views\MainView.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\bin\Debug\Themes\Colors.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\bin\Debug\Views\SearchView.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\bin\Debug\Ejemplo Cortana.xr.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\bin\Debug\Ejemplo Cortana.exe
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\bin\Debug\Ejemplo Cortana.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\bin\Debug\resources.pri
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\bin\Debug\AppxManifest.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\bin\Debug\Ejemplo Cortana.build.appxrecipe
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\App.g.i.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\App.g.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Themes\GridView.g.i.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Themes\GridView.g.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Views\MainView.g.i.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Views\MainView.g.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Themes\Colors.g.i.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Themes\Colors.g.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Views\SearchView.g.i.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Views\SearchView.g.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\App.xaml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Themes\GridView.xaml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Views\MainView.xaml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Themes\Colors.xaml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Views\SearchView.xaml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\App.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Themes\GridView.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Views\MainView.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Themes\Colors.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Views\SearchView.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Ejemplo Cortana.exe
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Ejemplo Cortana.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.Unity\en\Microsoft.Practices.Unity.Properties.Resources.resw
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Ejemplo Cortana.csproj.GenerateResource.Cache
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.Unity.pri
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.Unity\qualifiers.txt
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\priconfig.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\priconfig.xml.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\layout.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\layout.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\resources.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\resources.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\pri.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\pri.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\qualifiers.txt
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\ProjectArchitectures.txt
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.Unity\layout.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.Unity\layout.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.Unity\Resources.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.Unity\Resources.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.Unity\pri.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.Unity\pri.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.Unity\priconfig.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Cortana\Ejemplo Cortana\obj\Debug\Microsoft.Practices.Unity\priconfig.xml.intermediate

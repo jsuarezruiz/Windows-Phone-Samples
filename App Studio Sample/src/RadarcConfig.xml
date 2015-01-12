@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArchitectFakeConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BasePath>D:\DoWapp\Jobs\743.qrsaof\src</BasePath>
+  <FormulaName>DoWAppWP8</FormulaName>
+  <Properties>
+    <ArchitectureProperty Name="Namespace" Type="System.String" Value="DoWapp" DefaultValue="DoWapp" IsMandatory="true" Replace="true" WildCard="Namespace">
+      <ValidValues />
+    </ArchitectureProperty>
+    <ArchitectureProperty Name="AppName" Type="System.String" Value="MyDoWapp" DefaultValue="MyDoWapp" IsMandatory="true" Replace="true" WildCard="AppName">
+      <ValidValues />
+    </ArchitectureProperty>
+  </Properties>
+  <OverwriteCustomCode>false</OverwriteCustomCode>
+  <GenerateOnBuild>true</GenerateOnBuild>
+  <GenerateToExcludedFolder>false</GenerateToExcludedFolder>
+  <AutomaticSCCCheckOut>true</AutomaticSCCCheckOut>
+  <LastGenerationTimestamp>0</LastGenerationTimestamp>
+</ArchitectFakeConfig>

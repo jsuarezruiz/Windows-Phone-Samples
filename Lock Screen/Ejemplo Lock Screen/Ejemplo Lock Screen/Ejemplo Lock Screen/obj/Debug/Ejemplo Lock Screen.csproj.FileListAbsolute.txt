@@ -1,0 +1,18 @@
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Lock Screen\Ejemplo Lock Screen\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Lock Screen\Ejemplo Lock Screen\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Lock Screen\Ejemplo Lock Screen\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Lock Screen\Ejemplo Lock Screen\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Lock Screen\Ejemplo Lock Screen\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Lock Screen\Ejemplo Lock Screen\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Lock Screen\Ejemplo Lock Screen\Bin\Debug\Ejemplo Lock Screen.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Lock Screen\Ejemplo Lock Screen\Bin\Debug\Ejemplo Lock Screen.pdb
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Lock Screen\Ejemplo Lock Screen\Bin\Debug\AppManifest.xaml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Lock Screen\Ejemplo Lock Screen\Bin\Debug\Ejemplo_Lock_Screen_Debug_AnyCPU.xap
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Lock Screen\Ejemplo Lock Screen\obj\Debug\App.g.cs
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Lock Screen\Ejemplo Lock Screen\obj\Debug\MainPage.g.cs
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Lock Screen\Ejemplo Lock Screen\obj\Debug\Ejemplo Lock Screen.g.resources
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Lock Screen\Ejemplo Lock Screen\obj\Debug\Ejemplo_Lock_Screen.Resources.AppResources.resources
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Lock Screen\Ejemplo Lock Screen\obj\Debug\Ejemplo Lock Screen.csproj.GenerateResource.Cache
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Lock Screen\Ejemplo Lock Screen\obj\Debug\Ejemplo Lock Screen.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Lock Screen\Ejemplo Lock Screen\obj\Debug\Ejemplo Lock Screen.pdb
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Lock Screen\Ejemplo Lock Screen\obj\Debug\XapCacheFile.xml
