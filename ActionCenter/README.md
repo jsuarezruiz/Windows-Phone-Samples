@@ -1,0 +1,4 @@
+# ActionCenter
+Los Live Tiles disponibles en la plataforma Windows son una excelente y elegante forma de notificar al usuario con información relevante para el mismo. Sin embargo, no todas las aplicaciones están ancladas al inicio y a veces el usuario puede perder información. Para solventar esto llega el Action Center, un lugar donde ver todas las notificaciones de todas las aplicaciones incluso de las no ancladas al incio además de poder acceder a configuración básica del sistema como el modo vuelo, WiFi o Bluetooth.
+
+Con el SDK de Windows Phone 8.1 tenemos a nuestra disposición varias APIs que permiten administrar las notificaciones del centro de actividades (Action Center). En este ejemplo vamos a conocer las APIs disponibles.
