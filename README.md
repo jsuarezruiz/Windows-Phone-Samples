@@ -1,1 +1,1 @@
-# Windows-Phone-Samples
+# Windows Phone Samples
