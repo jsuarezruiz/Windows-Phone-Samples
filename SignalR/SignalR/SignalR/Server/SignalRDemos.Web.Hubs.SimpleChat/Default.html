@@ -1,0 +1,231 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Simple chat demo with hubs</title>
+    <script src="Scripts/jquery-1.6.4.min.js"></script>
+    <script src="Scripts/jquery.signalR-2.0.0-beta2.min.js"></script>
+    <script src="Signalr/js"></script>
+    <style>
+        body {
+            font-family: arial;
+        }
+        h1 {
+            margin: 0;
+        }
+        #powered {
+            font-size: 80%;
+            margin: 0 0 20px 0;            
+        }
+
+        a img {
+            border: 0;
+            vertical-align: baseline;
+        }
+
+        #user-info {
+            margin-bottom: 5px;
+            line-height: 20px;
+            padding: 2px;
+        }
+
+            #user-info img {
+                vertical-align: bottom;
+            }
+
+        #username {
+            padding: 0;
+            vertical-align: middle;
+            font-size: 16px;
+            background-color: #fafafa;
+            border: 1px solid #e0e0e0;
+        }
+
+        #change-username, #change-image {
+            font-size: 80%;
+        }
+
+        #chatpanel {
+            margin-top: 10px;
+            padding: 10px;
+            border: 1px solid #a0a0a0;
+            background-color: #f0f0f0;
+            height: 400px;
+            overflow-y: scroll;
+        }
+
+            #chatpanel li, #users-panel ul li {
+                list-style: none;
+                padding: 0;
+                margin: 0 0 3px 0;
+            }
+
+                #chatpanel li img {
+                    vertical-align: middle;
+                }
+
+        #users-panel {
+            width: 200px;
+            height: 420px;
+            float: right;
+            margin-top: 10px;
+            margin-left: 10px;
+        }
+
+            #users-panel h3 {
+                font-size: 18px;
+                padding: 2px;
+                margin: 0;
+                text-align: center;
+                background-color: #808080;
+                color: white;
+            }
+
+        #users {
+            margin-top: 5px;
+            display: block;
+            height: 365px;
+            background-color: #fafafa;
+            border: 1px solid #c0c0c0;
+            padding: 12px;
+        }
+
+            #users li {
+                padding-left: 20px;
+            }
+
+                #users li img {
+                    
+                }
+                #users li div {
+                    float: right;
+                    width: 150px;
+                    overflow-x: hidden;
+                }
+
+        li.system {
+            color: #808080;
+        }
+
+        #text {
+            width: 400px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Simple chat </h1>
+    <p id="powered"><a href="http://www.gravatar.com" target="_blank">Powered by gravatar</a></p>
+    <div>
+        <div id="user-info" style="display: none">
+            <img src="http://www.gravatar.com/avatar.php?gravatar_id=0&size=20" />
+            <span id="username"></span>
+            <a href="#" id="change-username">(change nick)</a>
+            <a href="#" id="change-image">(change image)</a>
+        </div>
+        <input type="text" id="text" />
+        <button id="send">Send</button>
+    </div>
+    <div id="users-panel">
+        <h3>Users</h3>
+        <ul id="users"></ul>
+    </div>
+    <ul id="chatpanel"></ul>
+
+    <script>
+        $(function () {
+            var chatHub = $.connection.chatHub;
+
+            chatHub.client.newUserNotification = newUserNotification;
+            chatHub.client.nicknameChangedNotification = nicknameChangedNotification;
+            chatHub.client.imageChangedNotification = imageChangedNotification;
+            chatHub.client.userDisconnectedNotification = userDisconnectedNotification;
+
+            chatHub.client.welcome = welcome;
+            chatHub.client.message = addMessageToPanel;
+
+            $.connection.hub.start().done(function () {
+                $("#send").click(function () {
+                    chatHub.server.send($("#text").val())
+                                        .fail(function (err) {
+                                            alert(err);
+                                        });
+                    $("#text").val("").focus();
+                });
+                $("#change-username").click(function () {
+                    var newName = prompt("New username:", $("#username").text());
+                    if (newName) {
+                        chatHub.server.changeNickname(newName);
+                    }
+                    return false;
+                });
+                $("#change-image").click(function () {
+                    var newMail = prompt("Your email (registered in gravatar.com):", "");
+                    if (newMail) {
+                        chatHub.server.changeImage(newMail);
+                    }
+                    return false;
+                });
+            });
+
+            function welcome(assignedNickname, userList) {
+                var result = "";
+                for (var i = 0; i < userList.length; i++) {
+                    var user = userList[i];
+                    result += getUserListItem(user);
+                }
+                $("#users").empty();
+                $("#users").append(result);
+                $("#user-info").show();
+                $("#username").text(assignedNickname);
+            }
+
+            function userDisconnectedNotification(user) {
+                var userElement = getUserElement(user.Id);
+                if (userElement.length > 0) {
+                    addMessageToPanel(user.Name + " left the chat.", "system");
+                    userElement.remove();
+                }
+            }
+
+            function newUserNotification(user) {
+                if (getUserElement(user.Id).length == 0) {
+                    $("#users").append($(getUserListItem(user)));
+                    addMessageToPanel("New user arrived: " + user.Name + ". Welcome!", "system");
+                }
+            }
+            function nicknameChangedNotification(user, oldName) {
+                var userElement = getUserElement(user.Id);
+                if (userElement.length > 0) {
+                    userElement.replaceWith($(getUserListItem(user)));
+                    addMessageToPanel(oldName + " is now " + user.Name + ".", "system");
+                }
+                if (user.Id === $.connection.hub.id) {
+                    $("#username").text(user.Name);
+                }
+            }
+            function imageChangedNotification(user) {
+                var userElement = getUserElement(user.Id);
+                if (userElement.length > 0) {
+                    userElement.replaceWith($(getUserListItem(user)));
+                    addMessageToPanel(user.Name + " has a new image.", "system");
+                }
+                if (user.Id === $.connection.hub.id) {
+                    $("#user-info img").prop("src", user.Image);
+                }
+            }
+
+            function addMessageToPanel(message, type) {
+                var $panel = $("#chatpanel");
+                $panel.append("<li class='" + type + "'>" + message + "</li>");
+                $panel.scrollTop($panel[0].scrollHeight);
+            }
+
+            function getUserListItem(user) {
+                return "<li id='u" + user.Id + "'><img src='" + user.Image + "' /><div>" + user.Name + "</div></li>";
+            }
+            function getUserElement(id) {
+                return $("#u" + id);
+            }
+        });
+    </script>
+</body>
+</html>

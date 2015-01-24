@@ -1,0 +1,54 @@
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\Bin\Debug\TalkR.dll
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\Bin\Debug\TalkR.pdb
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\Bin\Debug\AppManifest.xaml
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\Bin\Debug\TalkR_Debug_AnyCPU.xap
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\obj\Debug\App.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\obj\Debug\TalkR.g.resources
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\obj\Debug\TalkR.Resources.AppResources.resources
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\obj\Debug\TalkR.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\obj\Debug\TalkR.dll
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\obj\Debug\TalkR.pdb
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\obj\Debug\XapCacheFile.xml
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\obj\Debug\TalkR.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\obj\Debug\ChatPage.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\Bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\Bin\Debug\Newtonsoft.Json.dll
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\Bin\Debug\System.Net.Http.dll
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\Bin\Debug\System.Net.Http.Extensions.dll
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\Bin\Debug\System.Net.Http.Primitives.dll
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\Bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\Bin\Debug\Newtonsoft.Json.xml
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\Bin\Debug\System.Net.Http.xml
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\Bin\Debug\System.Net.Http.Extensions.xml
+c:\users\javier\documents\visual studio 2012\Projects\TalkR\TalkR\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\Bin\Debug\TalkR.dll
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\Bin\Debug\TalkR.pdb
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\Bin\Debug\AppManifest.xaml
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\Bin\Debug\TalkR_Debug_AnyCPU.xap
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\Bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\Bin\Debug\System.Net.Http.dll
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\Bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\Bin\Debug\System.Net.Http.xml
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\obj\Debug\TalkR.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\obj\Debug\App.g.cs
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\obj\Debug\ChatPage.g.cs
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\obj\Debug\TalkR.g.resources
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\obj\Debug\TalkR.Resources.AppResources.resources
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\obj\Debug\TalkR.csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\obj\Debug\TalkR.dll
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\obj\Debug\TalkR.pdb
+C:\Users\Javier\Desktop\SignalR\Clients\TalkR WP8\Source\TalkR\obj\Debug\XapCacheFile.xml

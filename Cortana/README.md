@@ -1,0 +1,2 @@
+# Cortana Sample
+En el pasado //BUILD/ de Microsoft, Joe Belfiore vicepresidente del programa Windows Phone presento Cortana. Cortana es el asistente virtual de Windows Phone y entre la enorme cantidad de funcionalidades incluidas además de las que van incorporando poco a poco (como por ejemplo, recomendaciones basadas en búsquedas de Foursquare) cabe destacar que es una plataforma sobre la que se pueden desarrollar aplicaciones de terceros. En este ejemplo vamos a centrarnos en analizar paso a paso como integrar una aplicación Windows Phone con Cortana.

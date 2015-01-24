@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRDemos.Web.Hubs.DrawingBoard", "SignalRDemos.Web.Hubs.DrawingBoard\SignalRDemos.Web.Hubs.DrawingBoard.csproj", "{BD2FA6ED-A720-4401-8301-CAB3087FA7F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRDemos.Web.Hubs.SimpleChat", "SignalRDemos.Web.Hubs.SimpleChat\SignalRDemos.Web.Hubs.SimpleChat.csproj", "{653D4DFB-EE77-4DAE-99A0-AC03FC2A109F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{064342C1-FA46-419D-806D-CFCCFA6A6D15}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD2FA6ED-A720-4401-8301-CAB3087FA7F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2FA6ED-A720-4401-8301-CAB3087FA7F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2FA6ED-A720-4401-8301-CAB3087FA7F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2FA6ED-A720-4401-8301-CAB3087FA7F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{653D4DFB-EE77-4DAE-99A0-AC03FC2A109F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653D4DFB-EE77-4DAE-99A0-AC03FC2A109F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653D4DFB-EE77-4DAE-99A0-AC03FC2A109F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653D4DFB-EE77-4DAE-99A0-AC03FC2A109F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
