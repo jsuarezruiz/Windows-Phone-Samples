@@ -1,0 +1,13 @@
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Canvas\Ejemplo Canvas\Bin\Debug\ApplicationIcon.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Canvas\Ejemplo Canvas\Bin\Debug\Background.png
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Canvas\Ejemplo Canvas\Bin\Debug\Ejemplo Canvas.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Canvas\Ejemplo Canvas\Bin\Debug\Ejemplo Canvas.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Canvas\Ejemplo Canvas\Bin\Debug\AppManifest.xaml
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Canvas\Ejemplo Canvas\Bin\Debug\Ejemplo_Canvas.xap
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Canvas\Ejemplo Canvas\obj\Debug\ResolveAssemblyReference.cache
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Canvas\Ejemplo Canvas\obj\Debug\App.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Canvas\Ejemplo Canvas\obj\Debug\MainPage.g.i.cs
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Canvas\Ejemplo Canvas\obj\Debug\Ejemplo Canvas.g.resources
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Canvas\Ejemplo Canvas\obj\Debug\Ejemplo Canvas.dll
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Canvas\Ejemplo Canvas\obj\Debug\Ejemplo Canvas.pdb
+c:\users\javi\documents\visual studio 2010\Projects\Ejemplo Canvas\Ejemplo Canvas\obj\Debug\XapCacheFile.xml
