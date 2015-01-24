@@ -1,0 +1,13 @@
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Grid\Ejemplo Grid\Bin\Debug\ApplicationIcon.png
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Grid\Ejemplo Grid\Bin\Debug\Background.png
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Grid\Ejemplo Grid\Bin\Debug\Ejemplo Grid.dll
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Grid\Ejemplo Grid\Bin\Debug\Ejemplo Grid.pdb
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Grid\Ejemplo Grid\Bin\Debug\AppManifest.xaml
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Grid\Ejemplo Grid\Bin\Debug\Ejemplo_Grid.xap
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Grid\Ejemplo Grid\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Grid\Ejemplo Grid\obj\Debug\App.g.i.cs
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Grid\Ejemplo Grid\obj\Debug\MainPage.g.i.cs
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Grid\Ejemplo Grid\obj\Debug\Ejemplo Grid.g.resources
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Grid\Ejemplo Grid\obj\Debug\Ejemplo Grid.dll
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Grid\Ejemplo Grid\obj\Debug\Ejemplo Grid.pdb
+C:\Users\Javi\documents\visual studio 2010\Projects\Ejemplo Grid\Ejemplo Grid\obj\Debug\XapCacheFile.xml
